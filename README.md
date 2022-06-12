@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="![logo](https://user-images.githubusercontent.com/73100677/173237462-2ff256dc-ad7c-44cb-a85d-757e2a20c628.png)" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/73100677/173237462-2ff256dc-ad7c-44cb-a85d-757e2a20c628.png" width="400"></a></p>
 
 >
 
